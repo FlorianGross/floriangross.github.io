@@ -1,4 +1,11 @@
-_site
-.sass-cache
+# Visual Studio
+/.vs
+
+# Jekyll
+/_site
+/Gemfile.lock
 .jekyll-metadata
-Gemfile.lock
+/.sass-cache
+
+# Backups
+*.bak

@@ -1,0 +1,33 @@
+// Anchor headings
+h2 > a.heading-link {
+    opacity: 0; // Hide by default
+    transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover > a.heading-link {
+    opacity: 1;
+}
+
+// Code block copy button
+pre.highlight {
+    position: relative;
+}
+
+pre.highlight > button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0; // Hide by default
+    transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+pre.highlight:hover > button,
+pre.highlight > button:focus,
+pre.highlight > button:active {
+    opacity: 1;
+}
+
+// Increase the font size of the site navigation
+.site-nav .page-link {
+    @include relative-font-size(1.2);
+}
