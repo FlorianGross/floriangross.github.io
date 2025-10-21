@@ -34,9 +34,9 @@ minima:
     - title: "X: @gro_lp"
       icon: x-twitter
       url: "https://x.com/gro_lp"
-    - title: "LinkedIn: floriangross"
+    - title: "LinkedIn: floriangdev"
       icon: linkedin
-      url: "https://www.linkedin.com/in/floriangross/"
+      url: "https://www.linkedin.com/in/floriangdev/"
 
 kramdown:
   toc_levels: 2..2
