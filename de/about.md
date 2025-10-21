@@ -1,10 +1,10 @@
 ---
 title: About
-lang: en
+lang: de
 layout: page
 ref: about
 image: /assets/images/profile_picture.jpg
-permalink: /en/about/
+permalink: /de/about/
 fa_class: fas fa-user
 ---
 

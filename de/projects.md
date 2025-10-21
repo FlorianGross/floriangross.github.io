@@ -1,11 +1,11 @@
 ---
 title: Projects
-lang: en
+lang: de
 layout: page
 ref: projects
-permalink: /en/projects/
+permalink: /de/projects/
 redirect_from:
-  - /en/downloads/
+  - /de/downloads/
 image: /assets/images/dsinternals_password_quality.png
 fa_class: fas fa-download
 ---

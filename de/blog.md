@@ -1,8 +1,8 @@
 ---
 title: Blog
 layout: home
-lang: en
+lang: de
 ref: blog
-permalink: /en/
+permalink: /de/
 fa_class: fas fa-home
 ---
