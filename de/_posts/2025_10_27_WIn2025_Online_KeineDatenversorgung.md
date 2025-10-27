@@ -1,3 +1,17 @@
+---
+ref: esent-workbench
+title: 'Windows Server 2025 – Fehler „Online – Fehler beim Dateiabruf“ im Server-Manager beheben'
+date: 2015-09-28T21:32:07+00:00
+layout: post
+lang: de
+permalink: /de/windows-server-2025-fehler-online-fehler-beim-dateiabruf-im-server-manager-beheben/
+image: /assets/images/workbench.png
+tags:
+    - 'Active Directory'
+    - 'Windows Server'
+    - 'Windows Server 2025'
+---
+
 # Windows Server 2025 – Fehler „Online – Fehler beim Dateiabruf“ im Server-Manager beheben
 
 ## Überblick
