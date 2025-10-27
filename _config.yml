@@ -1,15 +1,15 @@
-title: Florian's Blog
+title: FlorianG
 tagline: A blog about technology and programming
 description: Florian's personal blog where he shares insights and tutorials on various tech topics.
 logo: /favicon.png
-logo_large: /assets/images/logo_white.png
+logo_large: /assets/icons/QuadratischesLogo_Dark.png
 url: https://blog.floriang.dev
 
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/floriang.png
+      image: /assets/icons/QuadratischesLogo_Dark.png
 
 show_excerpts: true
 excerpt_separator: <!--more-->

@@ -16,6 +16,8 @@ tags:
 
 In Windows Server 2025 kann es bei der Verwaltung von Remote-Systemen über den **Server-Manager** zu folgender Fehlermeldung kommen:
 
+![Fehler beim Datenabruf](../../assets/images/cover/win2025_fehler_beim_datenabruf.png) 
+
 > **Online – Fehler beim Dateiabruf**
 
 Dieser Fehler tritt häufig auf, wenn der **Windows Remote Management (WinRM)**-Dienst auf dem Zielsystem bestimmte Anforderungsgrößen überschreitet oder die Standardkonfiguration zu restriktiv ist. Das Resultat: Der Server-Manager kann keine vollständigen Systemdaten abrufen.
@@ -26,6 +28,8 @@ Dieser Fehler tritt häufig auf, wenn der **Windows Remote Management (WinRM)**-
 
 Der Server-Manager verwendet für die Kommunikation mit Remote-Systemen das **WinRM-Protokoll** (Windows Remote Management).  
 Standardmäßig ist im WinRM-Stack eine maximale Paketgröße (`MaxEnvelopeSizekb`) von **500 KB** definiert. Bei Systemen mit vielen installierten Rollen, Features oder umfangreichen WMI-Antworten kann dieser Wert zu niedrig sein – der Server-Manager bricht den Abruf dann mit dem genannten Fehler ab.
+
+![Standardkonfiguration wsman](../../assets/images/cover/win2025_default_wsman.png)
 
 ---
 
