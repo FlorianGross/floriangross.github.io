@@ -1,7 +1,7 @@
 ---
-ref: esent-workbench
+ref: windows-server-2025-error-online-error-retrieving-file-in-server-manager-fix
 title: 'Windows Server 2025 - Fixing "Online – Error Retrieving File" in Server Manager'
-date: 2015-09-28T21:32:07+00:00
+date: 2025-10-27T10:00:00+00:00
 layout: post
 lang: en
 permalink: /en/windows-server-2025-error-online-error-retrieving-file-in-server-manager-fix/
@@ -12,9 +12,7 @@ tags:
     - 'Windows Server 2025'
 ---
 
-# Windows Server 2025 - Fixing "Online – Error Retrieving File" in Server Manager
-
-## Overview
+## Overviews
 
 In Windows Server 2025, when managing remote systems through the **Server Manager**, you may encounter the following error message:
 
@@ -38,3 +36,4 @@ This is done using the following PowerShell command, which must be run **with ad
 
 ```powershell
 Set-WSManInstance -ResourceURI winrm/config -ValueSet @{MaxEnvelopeSizekb = "8192"}
+```

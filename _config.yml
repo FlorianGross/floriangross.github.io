@@ -28,9 +28,9 @@ theme: minima
 minima:
   skin: solarized-dark
   social_links:
-    -  title: "GitHub: FlorianGross"
-       icon: github
-       url: "https://github.com/FlorianGross"
+    - title: "GitHub: FlorianGross"
+      icon: github
+      url: "https://github.com/FlorianGross"
     - title: "X: @gro_lp"
       icon: x-twitter
       url: "https://x.com/gro_lp"
@@ -46,17 +46,17 @@ sass:
 
 safe: true
 whitelist:
- - jekyll-redirect-from
- - jekyll-seo-tag
- - jekyll-github-metadata
- - jekyll-relative-links
- - jemoji
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jemoji
 plugins:
- - jekyll-redirect-from
- - jekyll-seo-tag
- - jekyll-github-metadata
- - jekyll-relative-links
- - jemoji
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jemoji
 
 exclude:
   - 'Gemfile'
