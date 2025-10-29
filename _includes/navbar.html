@@ -1,5 +1,5 @@
 <!-- Menu Items -->
-{%- assign menurefs = "blog, projects, about, impressum, datenschutz" | split: ", " -%}
+{%- assign menurefs = "blog, projects, about, impressum, datenschutz, imprint, privacy-policy" | split: ", " -%}
 {%- for menuref in menurefs -%}
   {%- assign menuitem = site.pages | where: "ref", menuref | where: "lang", page.lang | first %}
   {%- if menuitem %}

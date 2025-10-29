@@ -46,7 +46,7 @@ sitemap: false
     <th>Image</th>
   </thead>
   <tbody>
-    {% assign pageRefs = "blog, projects, about, impressum, datenschutz" | split:"," %}
+    {% assign pageRefs = "blog, projects, about, impressum, datenschutz, imprint, privacy-policy" | split:"," %}
     {% assign pages = site.pages | where_exp:"item", "pageRefs contains item.ref" %}
     {%- if pages.size > 0 -%}
       {%- for xpage in pages %}
