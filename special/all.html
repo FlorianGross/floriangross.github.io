@@ -7,7 +7,7 @@ lang: de
 sitemap: false
 ---
 
-{% assign pageRefs = "projects,courses,about" | split:"," %}
+{% assign pageRefs = "blog, projects, about, impressum, datenschutz" | split:"," %}
 {% assign pages = site.pages | where_exp:"item", "pageRefs contains item.ref" %}
 {%- if pages.size > 0 -%}
   <ul class="post-list">
