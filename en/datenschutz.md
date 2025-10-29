@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Datenschutzerklärung
-permalink: /datenschutz/
+lang: en
+title: Privacy Policy
+permalink: /en/privacy-policy/
+ref: privacy-policy
+image: /assets/images/profile_picture.jpg
+fa_class: fas fa-info-circle
 ---
 
-## Datenschutzerklärung
+## Privacy Policy
 
-### 1. Verantwortlicher
+### 1. Responsible
 
 Florian Groß  
 Wilhelm-Braun-Straße 3  
@@ -16,17 +20,17 @@ E-Mail: floriang[@]fmgross.de
 
 ---
 
-### 2. Allgemeine Hinweise
+### 2. General Information
 
-Ich nehme den Schutz Ihrer personenbezogenen Daten sehr ernst.  
-Personenbezogene Daten werden vertraulich und gemäß den gesetzlichen Datenschutzvorschriften (insbesondere DSGVO) sowie dieser Datenschutzerklärung verarbeitet.
+I take the protection of your personal data very seriously.  
+Personal data is processed confidentially and in accordance with the statutory data protection regulations (in particular the GDPR) as well as this privacy policy.
 
-Beim Besuch dieser Website werden automatisiert technische Zugriffsdaten erfasst (siehe Punkt 3).  
-Ich selbst betreibe keine serverseitige Logik, speichere keine zusätzlichen personenbezogenen Daten und verwende keine Tracking-Dienste.
+When visiting this website, technical access data is automatically collected (see Section 3).  
+I do not operate any server-side logic, do not store any additional personal data, and do not use any tracking services.
 
 ---
 
-### 3. Hosting über GitHub Pages
+### 3. Hosting via GitHub Pages
 
 Diese Website wird über den Dienst „GitHub Pages“ ausgeliefert.  
 Anbieter ist:

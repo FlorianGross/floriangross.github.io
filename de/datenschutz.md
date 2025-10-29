@@ -1,7 +1,11 @@
 ---
 layout: page
+lang: de
 title: Datenschutzerklärung
-permalink: /datenschutz/
+permalink: /de/datenschutz/
+ref: datenschutz
+image: /assets/images/profile_picture.jpg
+fa_class: fas fa-info-circle
 ---
 
 ## Datenschutzerklärung

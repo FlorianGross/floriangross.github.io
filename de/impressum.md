@@ -1,7 +1,11 @@
 ---
 layout: page
+lang: de
 title: Impressum
-permalink: /impressum/
+permalink: /de/impressum/
+ref: impressum
+image: /assets/images/profile_picture.jpg
+fa_class: fas fa-info-circle
 ---
 
 ## Impressum

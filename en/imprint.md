@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Impressum
-permalink: /impressum/
+lang: en
+title: Imprint
+permalink: /en/imprint/
+ref: imprint
+image: /assets/images/profile_picture.jpg
+fa_class: fas fa-info-circle
 ---
 
-## Impressum
+## Imprint
 
 ### Angaben gemäß § 5 TMG
 
